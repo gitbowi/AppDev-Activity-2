@@ -14,7 +14,7 @@ namespace YearTargetApp
         {
             // Display a welcome message
             Console.WriteLine("Welcome to the Year Target Application!");
-            Console.WriteLine("Welcome! Let's find out what year you will reach your desired age!");
+            Console.WriteLine("Let's find out what year you will reach your desired age!");
 
             // Ask for name
             Console.Write("Please enter your name: ");
