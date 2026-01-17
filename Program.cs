@@ -13,6 +13,7 @@ namespace YearTargetApp
         static void Main(string[] args)
         {
             // Display a welcome message
+            Console.WriteLine("Welcome to the Year Target Application!");
             Console.WriteLine("Welcome! Let's find out what year you will reach your desired age!");
 
             // Ask for name
